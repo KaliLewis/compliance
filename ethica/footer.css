@@ -1,0 +1,8 @@
+footer{
+    background-color: rgb(27, 89, 33);
+    color: white;
+    font-weight: 600;
+}
+footer a:hover{
+    color: #9ce68f !important;
+}
